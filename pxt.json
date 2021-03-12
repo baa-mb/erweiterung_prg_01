@@ -11,7 +11,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "baa_def.ts"
+        "baa_extension.ts"
     ],
     "testFiles": [
         "test.ts"
