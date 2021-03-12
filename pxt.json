@@ -1,5 +1,6 @@
 {
     "name": "erweiterung_PRG_01",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
